@@ -1,5 +1,5 @@
 package chapter01.sort;
-
+//SORTED ARRAY 
 public class ArrayisSorted {
 
 	public static void main(String[] args) {
